@@ -9,7 +9,7 @@ Estudio [Ingeniería de Sistemas] en [UPAO] y me gusta hacer cosas que la gente 
 
 Ahora mismo estoy con **AgroOrbit Nexus** y busco [prácticas pre-profesionales].
 
-[Portafolio](https://bel001.github.io/Portafolio/) &nbsp;·&nbsp; [LinkedIn]([https://linkedin.com/in/TU-PERFIL])
+[Portafolio](https://bel001.github.io/Portafolio/) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/rodrigo-abel-rodr%C3%ADguez-malca-b33ab5342/)
 
 <br>
 
