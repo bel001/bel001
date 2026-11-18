@@ -15,6 +15,9 @@ Ahora mismo estoy con **AgroOrbit Nexus** y busco [prácticas pre-profesionales]
 
 ## Proyectos
 
+<a href="https://github.com/bel001/UniThrive-App"><img src="assets/card-unithrive.svg" width="100%" alt="UniThrive: app universitaria offline-first"></a>
+<p align="right"><sub><a href="https://github.com/bel001/UniThrive-App">Código</a></sub></p>
+
 <a href="https://horatriz.vercel.app"><img src="assets/card-horatriz.svg" width="100%" alt="Horatriz: genera horarios universitarios sin cruces"></a>
 <p align="right"><sub><a href="https://horatriz.vercel.app"><b>Probar demo</b></a> &nbsp;·&nbsp; <a href="https://github.com/bel001/Horatriz">Código</a></sub></p>
 
@@ -26,9 +29,6 @@ Ahora mismo estoy con **AgroOrbit Nexus** y busco [prácticas pre-profesionales]
 
 <a href="https://github.com/bel001/Sistema-de-deteccion-de-EPP-en-construccion"><img src="assets/card-epp.svg" width="100%" alt="Detección de EPP con YOLOv8"></a>
 <p align="right"><sub><a href="https://github.com/bel001/Sistema-de-deteccion-de-EPP-en-construccion">Código</a></sub></p>
-
-<a href="https://github.com/bel001/UniThrive-App"><img src="assets/card-unithrive.svg" width="100%" alt="UniThrive: app universitaria offline-first"></a>
-<p align="right"><sub><a href="https://github.com/bel001/UniThrive-App">Código</a></sub></p>
 
 <br>
 
